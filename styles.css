@@ -151,9 +151,7 @@ hr {
 }
 .line-1 {
     height: 0.1px;
-    background: hsl(215, 51%, 70%);
-
-    opacity: 0.4;
+    background: hsl(215, 32%, 27%);
     margin: 5px;
   }
   .create{ 
