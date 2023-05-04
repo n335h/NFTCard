@@ -13,7 +13,7 @@ body {
 
 .container {
     width: 340px;
-    height: 580px;
+    height: 600px;
     margin: auto auto; /* set top, bottom, left, and right margins to auto */
     padding: 0 10px;
     background-color: hsl(216, 50%, 16%);
@@ -50,25 +50,25 @@ body {
 }
 
 .mainblock {
-    padding: 15px;
+    padding: 10px;
 }
 
 img {
     height: 100%;
     width: 100%;
     border-radius: 10px;
-    top: 25px; 
+    top: 20px; 
   
 }
 .img {
-    padding-top: 5px;
+    padding-top: -5px;
 }
 .chevrons {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 20px;
-    height:20px;
+    width: 10px;
+    height:15px;
     margin-top: 20px;
     margin-bottom: 20px;
     padding-right: 5px;
@@ -144,7 +144,8 @@ hr {
 }
 
 .mainimg {
-    margin-top: 10px;
+    margin-top: 5x;
+    height:80%;
 }
 .line-1 {
     height: 0.2px;
